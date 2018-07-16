@@ -5,7 +5,7 @@
  *      Author: user
  */
 #include <iostream>
-
+//simon says
 void simon(int); //прототип функции simon
 
 int main()
