@@ -1,0 +1,1 @@
+oufrunc.o: ../oufrunc.cpp
